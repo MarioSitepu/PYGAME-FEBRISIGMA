@@ -1,0 +1,1 @@
+{"money": 200, "item_inventory": {"wood": 8, "apple": 9, "corn": 6, "tomato": 6, "potato": 6, "melon": 7, "pumpkin": 7, "catplant": 6}, "seed_inventory": {"corn": 4, "tomato": 4, "potato": 4, "melon": 3, "pumpkin": 1, "catplant": 4}, "position": [1934.4227847723137, 1388.4669047558366], "save_date": "2025-05-30 23:29"}
