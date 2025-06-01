@@ -1,0 +1,88 @@
+{
+    "activeFile": "C:/Users/ASUS/Documents/Belajar/PY GAMES STARDEW FINAL/s10 sekarang perbaiki bug/data/map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/ASUS/Documents/Belajar/PY GAMES STARDEW FINAL/s10 sekarang perbaiki bug/data/map.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1610,
+                "y": 601
+            }
+        },
+        "C:/Users/ASUS/Documents/Belajar/PY GAMES STARDEW FINAL/s4/data/map.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 1638,
+                "y": 1361
+            }
+        },
+        "Fences.tsx": {
+            "scaleInDock": 1.5
+        },
+        "Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "Hills.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "House Decoration.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "House.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Paths.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Plant Decoration.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "TilesetElement.tsx": {
+            "scaleInDock": 3
+        },
+        "TilesetHouse.tsx": {
+            "scaleInDock": 1.5
+        },
+        "TopDownHouse_FurnitureState2.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Water.tsx": {
+            "scaleInDock": 1
+        },
+        "interaction.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        }
+    },
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "C:/Users/ASUS/Documents/Belajar/PY GAMES STARDEW FINAL/s10 sekarang perbaiki bug/data/map.tmx",
+        "TopDownHouse_FurnitureState2.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "TopDownHouse_FurnitureState2.tsx",
+        "C:/Users/ASUS/Documents/Belajar/PY GAMES STARDEW FINAL/s10 sekarang perbaiki bug/data/map.tmx",
+        "C:/Users/ASUS/Documents/Belajar/PY GAMES STARDEW FINAL/s4/data/map.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 12,
+        "width": 12
+    }
+}
