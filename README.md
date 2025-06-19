@@ -123,32 +123,11 @@
 
 ---
 
-## 📁 Struktur Project
-
-```
-nyan-village/
-├── assets/
-│   ├── images/
-│   ├── sounds/
-│   └── fonts/
-├── src/
-│   ├── main.py
-│   ├── game_engine/
-│   ├── characters/
-│   ├── farming/
-│   └── ui/
-├── docs/
-│   ├── UML_diagram.pdf
-│   └── game_design.pdf
-├── README.md
-└── requirements.txt
-```
-
 ---
 
 ## 🎨 Screenshots
 
-*[Tambahkan screenshot gameplay di sini]*
+*![Screenshot 2025-05-30 231520](https://github.com/user-attachments/assets/9ff96ca8-bab3-4a0b-8ada-bbb671dd9ff3)*
 
 ---
 
@@ -183,7 +162,7 @@ Project ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) un
 ## 📞 Kontak
 
 Untuk pertanyaan atau saran, silakan hubungi tim pengembang melalui:
-- 📧 Email: [email-kontak]
+- 📧 Email: [stinart123@gmail.com]
 - 🐙 GitHub Issues: [Link ke issues]
 
 ---
