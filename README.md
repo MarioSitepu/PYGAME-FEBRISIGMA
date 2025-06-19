@@ -54,7 +54,7 @@
 1. **Clone repository**
    ```bash
    git clone https://github.com/username/nyan-village.git
-   cd nyan-village
+   cd "code"
    ```
 
 2. **Install dependencies**
