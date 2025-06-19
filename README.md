@@ -73,14 +73,14 @@
 
 ### Kontrol Dasar
 - **WASD / Arrow Keys**: Bergerak
-- **Mouse Click**: Interaksi dengan objek
-- **Space**: Tindakan utama (menanam, menyiram, memanen)
-- **E**: Membuka inventory
+- **Ctrl**: Menanam Tanaman
+- **Space**: Tindakan utama alat (menyiram, mencangkul, menenbang pohon)
+- **Q/E**: Mengganti alat
 - **Esc**: Menu pause
 
 ### Tips Bermain
-1. 🌅 **Mulai Hari dengan Baik**: Rencanakan aktivitas sesuai stamina yang tersedia
-2. 💰 **Kelola Ekonomi**: Jual hasil panen untuk membeli benih dan upgrade
+1. 🌅 **Mulai Hari dengan Baik**: Rencanakan aktivitas sesuai yang anda mau
+2. 💰 **Kelola Ekonomi**: Jual hasil panen untuk membeli benih dan beli benih lebih mahal
 3. 🌱 **Diversifikasi Tanaman**: Tanam berbagai jenis tanaman untuk profit maksimal
 4. 🐱 **Berinteraksi dengan NPC**: Kunjungi trader kucing untuk transaksi
 5. ⏰ **Manajemen Waktu**: Prioritaskan aktivitas yang paling menguntungkan
@@ -109,7 +109,7 @@
 | NIM | Nama | Role |
 |-----|------|------|
 | 123140020 | Anselmus Herpin Hasugian | Programming, Laporan, Presentasi |
-| 123140021 | Adi Septriansyah | Programming, Presentasi |
+| 123140021 | Adi Septriansyah | Programming, Presentasi, Debugging |
 | 123140034 | Febrian Valentino Nugroho | Programming, Desain, Laporan, Presentasi, QC Audio Visual |
 | 123140023 | Mario Fransiskus Sitepu | Programming, Laporan, UML, Presentasi |
 
@@ -135,9 +135,9 @@
 
 - [ ] Sistem musim dan cuaca
 - [ ] Lebih banyak jenis tanaman
-- [ ] Sistem upgrade rumah
-- [ ] Multiplayer mode
-- [ ] Mobile version
+- [ ] Dapat Save game, load game, dan pause game
+- [ ] Singleplayer mode
+- [ ] Dapat Melakukan Transaksi Jual Beli Item Game
 
 ---
 
